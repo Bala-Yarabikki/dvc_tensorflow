@@ -7,3 +7,4 @@ tqdm
 PyYaml
 boto3
 
+-e .
