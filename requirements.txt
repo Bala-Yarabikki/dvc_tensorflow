@@ -8,3 +8,4 @@ PyYaml
 boto3
 
 -e .
+joblib
